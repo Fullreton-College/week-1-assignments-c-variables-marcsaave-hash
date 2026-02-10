@@ -15,8 +15,16 @@ int main()
 	// calculate area
 	
 
+
+
+	return 0;
+
 	// write output to console
 	
+
+
+
+
 
 	// return value that indicates normal program exit
     return 0;
